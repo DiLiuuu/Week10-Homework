@@ -20,7 +20,7 @@
         "type": "equalEarth"
     },
     "data": {
-        "url": "Global Missing Migrants Dataset.csv"
+        "url": "https://raw.githubusercontent.com/DiLiuuu/Week10-Homework/main/Global%20Missing%20Migrants%20Dataset.csv"
     },
     "transform": [
         {
@@ -31,7 +31,7 @@
     "layer": [
         {
             "data": {
-                "url": "ne_110m_admin_0_countries.topojson",
+                "url": "https://raw.githubusercontent.com/DiLiuuu/Week10-Homework/main/ne_110m_admin_0_countries.topojson",
                 "format": {
                     "type": "topojson",
                     "feature": "ne_110m_admin_0_countries"
