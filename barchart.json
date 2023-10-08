@@ -2,7 +2,7 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 "width": 1200,
 "height": 200,
-"title": "Cause of death",
+"description": "Cause of death",
     "data": {
         "url": "https://raw.githubusercontent.com/DiLiuuu/Week10-Homework/main/Global%20Missing%20Migrants%20Dataset.csv"
     },
